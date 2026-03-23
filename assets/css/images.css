@@ -3,6 +3,7 @@
     display: block;
     object-fit: contain;
     margin: auto;
+    align-content: center;
 }
 
 .low_cortisol_dance {
@@ -10,4 +11,5 @@
     display: block;
     object-fit: contain;
     margin: auto;
+    align-content: center;
 }
