@@ -1,15 +1,19 @@
-.paimon {
-    border-radius: 50%;
-    display: block;
-    object-fit: contain;
-    margin: auto;
-    align-content: center;
+.meme-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
-.low_cortisol_dance {
-    border-radius: 25%;
-    display: block;
+.meme-box img {
+    max-width: 100%;
     object-fit: contain;
-    margin: auto;
-    align-content: center;
+}
+
+.meme-box .paimon {
+    border-radius: 50%;
+}
+
+.meme-box .low-cortisol-dance {
+    border-radius: 25%;
 }
