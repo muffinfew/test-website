@@ -1,0 +1,13 @@
+.paimon {
+    border-radius: 50%;
+    display: block;
+    object-fit: contain;
+    margin: auto;
+}
+
+.low_cortisol_dance {
+    border-radius: 25%;
+    display: block;
+    object-fit: contain;
+    margin: auto;
+}
