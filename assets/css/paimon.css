@@ -1,0 +1,6 @@
+.paimon {
+    border-radius: 50%;
+    display: block;
+    object-fit: contain;
+    margin: auto;
+}
